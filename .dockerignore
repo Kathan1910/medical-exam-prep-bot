@@ -1,0 +1,50 @@
+# Python cache
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git
+.gitignore
+
+# Documentation
+README.md
+*.md
+
+# Logs (don't include local logs)
+logs/*.log
+
+# Data (don't include local data - will be created at runtime)
+storage/data/cache/*.json
+storage/data/chapters/*.pdf
+storage/data/embeddings/*
+
+# Environment
+.env.local
+.env.development
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+tests/
+*.test.py

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Chapter 1",
+    "filename": "extracted_volume2_pages_53_71.pdf",
+    "pdf_path": "/home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_1.pdf",
+    "num_chunks": 69,
+    "subject": null,
+    "year": null,
+    "created_at": "2025-10-03T19:19:59.935844"
+  }
+]

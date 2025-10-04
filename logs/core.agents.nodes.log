@@ -1,0 +1,622 @@
+2025-10-03 14:17:37,924 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 14:17:38,873 - core.agents.nodes - INFO - Retrieved 5 chunks and 2 images
+2025-10-03 14:17:38,880 - core.agents.nodes - INFO - Generating question
+2025-10-03 14:18:06,367 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 14:18:06,369 - core.agents.nodes - INFO - Validating question
+2025-10-03 14:18:08,043 - core.agents.nodes - INFO - Validation complete: True, confidence: 90
+2025-10-03 14:18:08,047 - core.agents.nodes - INFO - Adding citations
+2025-10-03 14:18:08,048 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 14:18:08,090 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 14:18:10,069 - core.agents.nodes - INFO - Retrieved 5 chunks and 2 images
+2025-10-03 14:18:10,072 - core.agents.nodes - INFO - Generating question
+2025-10-03 14:18:39,170 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 14:18:39,171 - core.agents.nodes - INFO - Validating question
+2025-10-03 14:18:40,505 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 14:18:40,511 - core.agents.nodes - INFO - Adding citations
+2025-10-03 14:18:40,511 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 14:18:40,554 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 14:18:42,048 - core.agents.nodes - INFO - Retrieved 5 chunks and 2 images
+2025-10-03 14:18:42,052 - core.agents.nodes - INFO - Generating question
+2025-10-03 14:19:19,621 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 14:19:19,623 - core.agents.nodes - INFO - Validating question
+2025-10-03 14:19:20,756 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 14:19:20,761 - core.agents.nodes - INFO - Adding citations
+2025-10-03 14:19:20,762 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 14:19:20,799 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 14:19:22,394 - core.agents.nodes - INFO - Retrieved 5 chunks and 2 images
+2025-10-03 14:19:22,398 - core.agents.nodes - INFO - Generating question
+2025-10-03 14:19:46,145 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 14:19:46,147 - core.agents.nodes - INFO - Validating question
+2025-10-03 14:19:47,535 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 14:19:47,543 - core.agents.nodes - INFO - Adding citations
+2025-10-03 14:19:47,544 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 14:19:47,590 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 14:19:48,606 - core.agents.nodes - INFO - Retrieved 5 chunks and 2 images
+2025-10-03 14:19:48,610 - core.agents.nodes - INFO - Generating question
+2025-10-03 14:20:16,062 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 14:20:16,065 - core.agents.nodes - INFO - Validating question
+2025-10-03 14:20:19,791 - core.agents.nodes - INFO - Validation complete: False, confidence: 70
+2025-10-03 14:20:19,799 - core.agents.nodes - INFO - Generating question
+2025-10-03 14:20:35,095 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 14:20:35,097 - core.agents.nodes - INFO - Validating question
+2025-10-03 14:20:36,012 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 14:20:36,017 - core.agents.nodes - INFO - Adding citations
+2025-10-03 14:20:36,018 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 14:59:20,051 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 14:59:21,029 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 14:59:21,034 - core.agents.nodes - INFO - Generating question
+2025-10-03 14:59:25,274 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 14:59:25,277 - core.agents.nodes - INFO - Validating question
+2025-10-03 14:59:26,291 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 14:59:26,298 - core.agents.nodes - INFO - Adding citations
+2025-10-03 14:59:26,299 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 14:59:26,345 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 14:59:27,543 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 14:59:27,548 - core.agents.nodes - INFO - Generating question
+2025-10-03 14:59:32,073 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 14:59:32,075 - core.agents.nodes - INFO - Validating question
+2025-10-03 14:59:33,117 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 14:59:33,123 - core.agents.nodes - INFO - Adding citations
+2025-10-03 14:59:33,125 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 14:59:33,163 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 14:59:34,126 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 14:59:34,129 - core.agents.nodes - INFO - Generating question
+2025-10-03 14:59:38,324 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 14:59:38,327 - core.agents.nodes - INFO - Validating question
+2025-10-03 14:59:39,241 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 14:59:39,246 - core.agents.nodes - INFO - Adding citations
+2025-10-03 14:59:39,247 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 14:59:39,288 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 14:59:40,686 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 14:59:40,690 - core.agents.nodes - INFO - Generating question
+2025-10-03 14:59:44,866 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 14:59:44,868 - core.agents.nodes - INFO - Validating question
+2025-10-03 14:59:46,451 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 14:59:46,456 - core.agents.nodes - INFO - Adding citations
+2025-10-03 14:59:46,456 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 14:59:46,496 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 14:59:47,848 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 14:59:47,851 - core.agents.nodes - INFO - Generating question
+2025-10-03 14:59:52,246 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 14:59:52,248 - core.agents.nodes - INFO - Validating question
+2025-10-03 14:59:53,098 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 14:59:53,103 - core.agents.nodes - INFO - Adding citations
+2025-10-03 14:59:53,104 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 16:06:13,931 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 16:06:15,949 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 16:06:15,952 - core.agents.nodes - INFO - Generating question
+2025-10-03 16:06:21,107 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 16:06:21,110 - core.agents.nodes - INFO - Validating question
+2025-10-03 16:06:22,486 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 16:06:22,490 - core.agents.nodes - INFO - Adding citations
+2025-10-03 16:06:22,491 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 16:06:22,540 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 16:06:23,849 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 16:06:23,851 - core.agents.nodes - INFO - Generating question
+2025-10-03 16:06:27,280 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 16:06:27,282 - core.agents.nodes - INFO - Validating question
+2025-10-03 16:06:29,272 - core.agents.nodes - INFO - Validation complete: True, confidence: 90
+2025-10-03 16:06:29,276 - core.agents.nodes - INFO - Adding citations
+2025-10-03 16:06:29,276 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 16:06:29,306 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 16:06:30,644 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 16:06:30,646 - core.agents.nodes - INFO - Generating question
+2025-10-03 16:06:33,883 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 16:06:33,885 - core.agents.nodes - INFO - Validating question
+2025-10-03 16:06:38,115 - core.agents.nodes - INFO - Validation complete: False, confidence: 70
+2025-10-03 16:06:38,122 - core.agents.nodes - INFO - Generating question
+2025-10-03 16:06:43,576 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 16:06:43,579 - core.agents.nodes - INFO - Validating question
+2025-10-03 16:06:45,424 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 16:06:45,430 - core.agents.nodes - INFO - Adding citations
+2025-10-03 16:06:45,431 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 16:06:45,466 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 16:06:46,693 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 16:06:46,696 - core.agents.nodes - INFO - Generating question
+2025-10-03 16:06:52,984 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 16:06:52,986 - core.agents.nodes - INFO - Validating question
+2025-10-03 16:06:55,868 - core.agents.nodes - INFO - Validation complete: True, confidence: 90
+2025-10-03 16:06:55,874 - core.agents.nodes - INFO - Adding citations
+2025-10-03 16:06:55,874 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 16:06:55,915 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 16:06:57,162 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 16:06:57,165 - core.agents.nodes - INFO - Generating question
+2025-10-03 16:07:01,399 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 16:07:01,401 - core.agents.nodes - INFO - Validating question
+2025-10-03 16:07:02,317 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 16:07:02,322 - core.agents.nodes - INFO - Adding citations
+2025-10-03 16:07:02,322 - core.agents.nodes - INFO - Citations added successfully
+2025-10-03 17:20:13,556 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 17:20:13,556 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 17:20:15,763 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 17:20:15,763 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 17:20:15,769 - core.agents.nodes - INFO - Generating question
+2025-10-03 17:20:15,769 - core.agents.nodes - INFO - Generating question
+2025-10-03 17:20:23,162 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 17:20:23,162 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 17:20:23,166 - core.agents.nodes - INFO - Validating question
+2025-10-03 17:20:23,166 - core.agents.nodes - INFO - Validating question
+2025-10-03 17:20:24,552 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 17:20:24,552 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 17:20:24,559 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 17:20:24,559 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 17:20:24,561 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 17:20:24,561 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 17:20:24,603 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 17:20:24,603 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 17:20:25,900 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 17:20:25,900 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 17:20:25,903 - core.agents.nodes - INFO - Generating question
+2025-10-03 17:20:25,903 - core.agents.nodes - INFO - Generating question
+2025-10-03 17:20:37,546 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 17:20:37,546 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 17:20:37,551 - core.agents.nodes - INFO - Validating question
+2025-10-03 17:20:37,551 - core.agents.nodes - INFO - Validating question
+2025-10-03 17:20:38,910 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 17:20:38,910 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 17:20:38,916 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 17:20:38,916 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 17:20:38,917 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 17:20:38,917 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 17:20:38,976 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 17:20:38,976 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 17:20:40,238 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 17:20:40,238 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 17:20:40,243 - core.agents.nodes - INFO - Generating question
+2025-10-03 17:20:40,243 - core.agents.nodes - INFO - Generating question
+2025-10-03 17:20:47,723 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 17:20:47,723 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 17:20:47,730 - core.agents.nodes - INFO - Validating question
+2025-10-03 17:20:47,730 - core.agents.nodes - INFO - Validating question
+2025-10-03 17:20:48,726 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 17:20:48,726 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 17:20:48,734 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 17:20:48,734 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 17:20:48,736 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 17:20:48,736 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 17:20:48,791 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 17:20:48,791 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 17:20:49,860 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 17:20:49,860 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 17:20:49,862 - core.agents.nodes - INFO - Generating question
+2025-10-03 17:20:49,862 - core.agents.nodes - INFO - Generating question
+2025-10-03 17:20:56,940 - core.agents.nodes - WARNING - Question not unique: Question is 75.0% similar to existing question: 'Which of the following structures forms the lateral boundary of the femoral tria...'
+2025-10-03 17:20:56,940 - core.agents.nodes - WARNING - Question not unique: Question is 75.0% similar to existing question: 'Which of the following structures forms the lateral boundary of the femoral tria...'
+2025-10-03 17:20:56,942 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 17:20:56,942 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 17:20:56,947 - core.agents.nodes - INFO - Validating question
+2025-10-03 17:20:56,947 - core.agents.nodes - INFO - Validating question
+2025-10-03 17:20:58,767 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 17:20:58,767 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 17:20:58,769 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 17:20:58,769 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 17:20:58,770 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 17:20:58,770 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 17:20:58,789 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 17:20:58,789 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 17:21:01,022 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 17:21:01,022 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 17:21:01,029 - core.agents.nodes - INFO - Generating question
+2025-10-03 17:21:01,029 - core.agents.nodes - INFO - Generating question
+2025-10-03 17:21:08,052 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 17:21:08,052 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 17:21:08,056 - core.agents.nodes - INFO - Validating question
+2025-10-03 17:21:08,056 - core.agents.nodes - INFO - Validating question
+2025-10-03 17:21:09,204 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 17:21:09,204 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 17:21:09,213 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 17:21:09,213 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 17:21:09,214 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 17:21:09,214 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:49:44,992 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:44,992 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:44,992 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:44,992 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:44,992 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:44,992 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:44,992 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:46,345 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:46,345 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:46,345 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:46,345 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:46,345 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:46,345 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:46,345 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:46,348 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:46,348 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:46,348 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:46,348 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:46,348 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:46,348 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:46,348 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:52,955 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:49:52,955 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:49:52,955 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:49:52,955 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:49:52,955 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:49:52,955 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:49:52,955 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:49:52,960 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:49:52,960 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:49:52,960 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:49:52,960 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:49:52,960 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:49:52,960 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:49:52,960 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:49:54,669 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:49:54,669 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:49:54,669 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:49:54,669 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:49:54,669 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:49:54,669 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:49:54,669 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:49:54,674 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:49:54,674 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:49:54,674 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:49:54,674 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:49:54,674 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:49:54,674 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:49:54,674 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:49:54,675 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:49:54,675 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:49:54,675 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:49:54,675 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:49:54,675 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:49:54,675 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:49:54,675 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:49:54,704 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:54,704 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:54,704 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:54,704 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:54,704 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:54,704 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:54,704 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:49:56,045 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:56,045 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:56,045 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:56,045 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:56,045 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:56,045 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:56,045 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:49:56,046 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:56,046 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:56,046 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:56,046 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:56,046 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:56,046 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:49:56,046 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:50:02,978 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:02,978 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:02,978 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:02,978 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:02,978 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:02,978 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:02,978 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:02,988 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:02,988 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:02,988 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:02,988 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:02,988 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:02,988 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:02,988 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:04,328 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:04,328 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:04,328 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:04,328 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:04,328 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:04,328 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:04,328 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:04,339 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:04,339 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:04,339 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:04,339 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:04,339 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:04,339 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:04,339 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:04,347 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:04,347 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:04,347 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:04,347 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:04,347 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:04,347 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:04,347 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:04,379 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:50:04,379 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:50:04,379 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:50:04,379 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:50:04,379 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:50:04,379 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:50:04,379 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:50:05,502 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:50:05,502 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:50:05,502 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:50:05,502 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:50:05,502 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:50:05,502 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:50:05,502 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:50:05,510 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:50:05,510 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:50:05,510 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:50:05,510 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:50:05,510 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:50:05,510 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:50:05,510 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:50:21,575 - core.agents.nodes - WARNING - Question not unique: Question is 83.4% similar to existing question: 'Which of the following structures forms the lateral boundary of the femoral tria...'
+2025-10-03 18:50:21,575 - core.agents.nodes - WARNING - Question not unique: Question is 83.4% similar to existing question: 'Which of the following structures forms the lateral boundary of the femoral tria...'
+2025-10-03 18:50:21,575 - core.agents.nodes - WARNING - Question not unique: Question is 83.4% similar to existing question: 'Which of the following structures forms the lateral boundary of the femoral tria...'
+2025-10-03 18:50:21,575 - core.agents.nodes - WARNING - Question not unique: Question is 83.4% similar to existing question: 'Which of the following structures forms the lateral boundary of the femoral tria...'
+2025-10-03 18:50:21,575 - core.agents.nodes - WARNING - Question not unique: Question is 83.4% similar to existing question: 'Which of the following structures forms the lateral boundary of the femoral tria...'
+2025-10-03 18:50:21,575 - core.agents.nodes - WARNING - Question not unique: Question is 83.4% similar to existing question: 'Which of the following structures forms the lateral boundary of the femoral tria...'
+2025-10-03 18:50:21,575 - core.agents.nodes - WARNING - Question not unique: Question is 83.4% similar to existing question: 'Which of the following structures forms the lateral boundary of the femoral tria...'
+2025-10-03 18:50:21,593 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:21,593 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:21,593 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:21,593 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:21,593 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:21,593 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:21,593 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:50:21,601 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:21,601 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:21,601 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:21,601 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:21,601 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:21,601 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:21,601 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:50:23,894 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:23,894 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:23,894 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:23,894 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:23,894 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:23,894 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:23,894 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:50:24,062 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:24,062 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:24,062 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:24,062 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:24,062 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:24,062 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:24,062 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:50:24,065 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:24,065 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:24,065 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:24,065 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:24,065 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:24,065 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:50:24,065 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:16,769 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:16,769 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:16,769 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:16,769 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:16,769 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:16,769 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:16,769 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:18,332 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:18,332 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:18,332 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:18,332 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:18,332 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:18,332 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:18,332 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:18,340 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:18,340 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:18,340 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:18,340 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:18,340 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:18,340 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:18,340 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:44,110 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:44,110 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:44,110 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:44,110 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:44,110 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:44,110 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:44,110 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:44,112 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:44,112 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:44,112 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:44,112 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:44,112 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:44,112 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:44,112 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:45,950 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:45,950 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:45,950 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:45,950 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:45,950 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:45,950 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:45,950 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:45,967 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:45,967 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:45,967 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:45,967 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:45,967 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:45,967 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:45,967 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:45,972 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:45,972 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:45,972 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:45,972 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:45,972 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:45,972 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:45,972 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:45,993 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:45,993 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:45,993 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:45,993 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:45,993 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:45,993 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:45,993 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:47,708 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:47,708 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:47,708 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:47,708 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:47,708 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:47,708 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:47,708 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:53:47,720 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:47,720 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:47,720 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:47,720 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:47,720 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:47,720 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:47,720 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:53:58,177 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:58,177 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:58,177 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:58,177 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:58,177 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:58,177 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:58,177 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:53:58,184 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:58,184 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:58,184 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:58,184 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:58,184 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:58,184 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:58,184 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:53:59,299 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:59,299 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:59,299 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:59,299 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:59,299 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:59,299 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:59,299 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:53:59,303 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:59,303 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:59,303 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:59,303 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:59,303 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:59,303 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:59,303 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:53:59,304 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:59,304 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:59,304 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:59,304 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:59,304 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:59,304 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:59,304 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:53:59,335 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:59,335 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:59,335 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:59,335 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:59,335 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:59,335 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:53:59,335 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:54:01,297 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:54:01,297 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:54:01,297 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:54:01,297 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:54:01,297 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:54:01,297 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:54:01,297 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:54:01,300 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:54:01,300 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:54:01,300 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:54:01,300 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:54:01,300 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:54:01,300 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:54:01,300 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:54:10,514 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:54:10,514 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:54:10,514 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:54:10,514 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:54:10,514 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:54:10,514 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:54:10,514 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:54:10,518 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:54:10,518 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:54:10,518 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:54:10,518 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:54:10,518 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:54:10,518 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:54:10,518 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:54:12,778 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:54:12,778 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:54:12,778 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:54:12,778 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:54:12,778 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:54:12,778 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:54:12,778 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:54:12,792 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:54:12,792 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:54:12,792 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:54:12,792 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:54:12,792 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:54:12,792 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:54:12,792 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:54:12,798 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:54:12,798 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:54:12,798 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:54:12,798 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:54:12,798 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:54:12,798 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:54:12,798 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:58:41,233 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:58:42,859 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:58:42,863 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:58:50,212 - core.agents.nodes - WARNING - Question not unique: Question is 100.0% similar to existing question: 'What is the position of the femoral vein relative to the femoral artery at the b...'
+2025-10-03 18:58:50,212 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:58:50,213 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:58:51,434 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:58:51,436 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:58:51,436 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 18:58:51,446 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 18:58:53,255 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 18:58:53,256 - core.agents.nodes - INFO - Generating question
+2025-10-03 18:59:01,456 - core.agents.nodes - WARNING - Question not unique: Question is 93.1% similar to existing question: 'Which of the following structures forms the lateral boundary of the femoral tria...'
+2025-10-03 18:59:01,456 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 18:59:01,457 - core.agents.nodes - INFO - Validating question
+2025-10-03 18:59:02,362 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 18:59:02,368 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 18:59:02,368 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 19:20:35,421 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 19:20:36,349 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 19:20:36,353 - core.agents.nodes - INFO - Generating question
+2025-10-03 19:20:49,995 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 19:20:49,998 - core.agents.nodes - INFO - Validating question
+2025-10-03 19:20:51,679 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 19:20:51,685 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 19:20:51,686 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 19:23:26,639 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 19:23:27,440 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 19:23:27,446 - core.agents.nodes - INFO - Generating question
+2025-10-03 19:23:33,910 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 19:23:33,913 - core.agents.nodes - INFO - Validating question
+2025-10-03 19:23:35,111 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 19:23:35,118 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 19:23:35,118 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 19:23:35,152 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 19:23:36,553 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 19:23:36,556 - core.agents.nodes - INFO - Generating question
+2025-10-03 19:23:58,197 - core.agents.nodes - WARNING - Question not unique: Question is 94.7% similar to existing question: 'Which structure forms the lateral boundary of the femoral triangle?...'
+2025-10-03 19:23:58,198 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 19:23:58,201 - core.agents.nodes - INFO - Validating question
+2025-10-03 19:23:59,407 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 19:23:59,411 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 19:23:59,412 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 19:23:59,446 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 19:24:00,724 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 19:24:00,727 - core.agents.nodes - INFO - Generating question
+2025-10-03 19:24:11,265 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 19:24:11,269 - core.agents.nodes - INFO - Validating question
+2025-10-03 19:24:15,666 - core.agents.nodes - INFO - Validation complete: False, confidence: 30
+2025-10-03 19:24:15,672 - core.agents.nodes - INFO - Generating question
+2025-10-03 19:24:22,027 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 19:24:22,030 - core.agents.nodes - INFO - Validating question
+2025-10-03 19:24:25,697 - core.agents.nodes - INFO - Validation complete: False, confidence: 50
+2025-10-03 19:24:25,716 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 19:24:27,137 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 19:24:27,139 - core.agents.nodes - INFO - Generating question
+2025-10-03 19:24:38,144 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 19:24:38,147 - core.agents.nodes - INFO - Validating question
+2025-10-03 19:24:39,491 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 19:24:39,497 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 19:24:39,497 - core.agents.nodes - INFO - Question finalized successfully
+2025-10-03 19:24:39,548 - core.agents.nodes - INFO - Retrieving context for chapter 1
+2025-10-03 19:24:40,667 - core.agents.nodes - INFO - Retrieved 5 chunks and 0 images
+2025-10-03 19:24:40,670 - core.agents.nodes - INFO - Generating question
+2025-10-03 19:24:51,971 - core.agents.nodes - INFO - Question generated successfully
+2025-10-03 19:24:51,975 - core.agents.nodes - INFO - Validating question
+2025-10-03 19:24:53,652 - core.agents.nodes - INFO - Validation complete: True, confidence: 95
+2025-10-03 19:24:53,660 - core.agents.nodes - INFO - Finalizing question with citations
+2025-10-03 19:24:53,661 - core.agents.nodes - INFO - Question finalized successfully

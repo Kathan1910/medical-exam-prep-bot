@@ -1,0 +1,192 @@
+[
+  {
+    "question": "What is the relationship between the femoral artery and femoral vein within the femoral triangle?",
+    "options": {
+      "A": "The femoral vein is lateral to the femoral artery at the base of the triangle.",
+      "B": "The femoral vein is anterior to the femoral artery throughout the triangle.",
+      "C": "The femoral vein is medial to the femoral artery at the base of the triangle and posteromedial at the apex.",
+      "D": "The femoral vein is posterior to the femoral artery only at the apex of the triangle."
+    },
+    "correct_answer": "C",
+    "explanation": "**Why \"The femoral vein is medial to the femoral artery at the base of the triangle and posteromedial at the apex.\" is the correct answer:**\nIn the femoral triangle, the femoral vein is positioned medial to the femoral artery at the base and shifts to a posteromedial position at the apex. This orientation is crucial for understanding vascular relationships in the thigh.\n\n**Analysis of Other Options:**\n- Option A (The femoral vein is lateral to the femoral artery at the base of the triangle.): Incorrect because the femoral vein is medial, not lateral, to the femoral artery at the base.\n- Option B (The femoral vein is anterior to the femoral artery throughout the triangle.): Incorrect because the vein is not anterior, but rather medial and then posteromedial to the artery.\n- Option D (The femoral vein is posterior to the femoral artery only at the apex of the triangle.): Incorrect because the vein is medial to the artery at the base, not just posterior at the apex.\n\n**Clinical Context:**\nKnowledge of the femoral artery and vein's anatomical relationship is essential during surgical procedures and catheterizations in the femoral region to avoid vascular injury.\n\n**Key Takeaway:**\nIn the femoral triangle, the femoral vein is medial to the artery at the base and moves to a posteromedial position at the apex.",
+    "references": [
+      {
+        "page": 6,
+        "quote": "The femoral vein accompanies the femoral artery. The vein is medial to the artery at base of triangle, but posteromedial to artery at the apex.",
+        "section": "Contents of the femoral triangle"
+      }
+    ],
+    "key_concepts": [
+      "femoral triangle",
+      "femoral artery",
+      "femoral vein"
+    ],
+    "reasoning_type": "recall",
+    "question_type": "factual",
+    "citations": [
+      "Page 6, Contents of the femoral triangle: \"The femoral vein accompanies the femoral artery. The vein is medial to the artery at base of triangl...\""
+    ],
+    "chapter_id": 1,
+    "difficulty": "intermediate",
+    "source_chunks": [
+      25,
+      0,
+      35
+    ],
+    "confidence_score": 95,
+    "id": 1,
+    "created_at": "2025-10-03T19:20:51.694947"
+  },
+  {
+    "question": "Which structure forms the lateral boundary of the femoral triangle?",
+    "options": {
+      "A": "Inguinal ligament",
+      "B": "Adductor longus",
+      "C": "Medial border of sartorius muscle",
+      "D": "Pectineus"
+    },
+    "correct_answer": "C",
+    "explanation": "**Why \"Medial border of sartorius muscle\" is the correct answer:**\nThe lateral boundary of the femoral triangle is formed by the medial border of the sartorius muscle. The sartorius is a long, thin muscle that runs across the thigh from the hip to the knee and is a key landmark in defining the lateral aspect of this anatomical region.\n\n**Analysis of Other Options:**\n- Option A (Inguinal ligament): The inguinal ligament forms the base (superior boundary) of the femoral triangle, not the lateral boundary.\n- Option B (Adductor longus): The adductor longus forms the medial boundary of the femoral triangle, not the lateral.\n- Option D (Pectineus): The pectineus muscle is located within the floor of the femoral triangle and does not contribute to its lateral boundary.\n\n**Clinical Context:**\nUnderstanding the boundaries of the femoral triangle is crucial for procedures such as catheterization or identifying the location of the femoral artery, vein, and nerve during surgery. Accurate anatomical knowledge helps prevent complications.\n\n**Key Takeaway:**\nThe medial border of the sartorius muscle forms the lateral boundary of the femoral triangle.",
+    "references": [
+      {
+        "page": 6,
+        "quote": "Its lateral boundary is formed by the medial border of the sartorius muscle.",
+        "section": "Lower Limb"
+      }
+    ],
+    "key_concepts": [
+      "femoral triangle",
+      "anatomical boundaries",
+      "sartorius muscle"
+    ],
+    "reasoning_type": "recall",
+    "question_type": "factual",
+    "citations": [
+      "Page 6, Lower Limb: \"Its lateral boundary is formed by the medial border of the sartorius muscle....\""
+    ],
+    "chapter_id": 1,
+    "difficulty": "intermediate",
+    "source_chunks": [
+      24,
+      26,
+      67
+    ],
+    "confidence_score": 95,
+    "id": 2,
+    "created_at": "2025-10-03T19:23:35.127086"
+  },
+  {
+    "question": "Which structure forms the medial boundary of the femoral triangle?",
+    "options": {
+      "A": "Inguinal ligament",
+      "B": "Sartorius muscle",
+      "C": "Adductor longus muscle",
+      "D": "Femoral nerve"
+    },
+    "correct_answer": "C",
+    "explanation": "**Why \"Adductor longus muscle\" is the correct answer:**\nThe medial boundary of the femoral triangle is defined by the medial border of the adductor longus muscle. This is a key anatomical landmark in the upper thigh region.\n\n**Analysis of Other Options:**\n- Option A (Inguinal ligament): The inguinal ligament forms the base, not a boundary, of the femoral triangle.\n- Option B (Sartorius muscle): The sartorius muscle forms the lateral boundary, not the medial boundary, of the femoral triangle.\n- Option D (Femoral nerve): The femoral nerve is a content within the femoral triangle, not a boundary.\n\n**Clinical Context:**\nUnderstanding the boundaries of the femoral triangle is crucial in surgical procedures involving the femoral artery or vein, as these structures lie within the triangle.\n\n**Key Takeaway:**\nThe adductor longus muscle forms the medial boundary of the femoral triangle.",
+    "references": [
+      {
+        "page": 5,
+        "quote": "The medial border of adductor longus forms medial boundary.",
+        "section": "Femoral Triangle Anatomy"
+      }
+    ],
+    "key_concepts": [
+      "femoral triangle",
+      "adductor longus",
+      "muscle boundaries"
+    ],
+    "reasoning_type": "recall",
+    "question_type": "factual",
+    "citations": [
+      "Page 5, Femoral Triangle Anatomy: \"The medial border of adductor longus forms medial boundary....\""
+    ],
+    "chapter_id": 1,
+    "difficulty": "intermediate",
+    "source_chunks": [
+      20,
+      30,
+      29
+    ],
+    "confidence_score": 95,
+    "id": 3,
+    "created_at": "2025-10-03T19:23:59.420194"
+  },
+  {
+    "question": "Which of the following structures is part of the contents of the femoral triangle?",
+    "options": {
+      "A": "Femoral artery",
+      "B": "Sartorius muscle",
+      "C": "Vastus lateralis muscle",
+      "D": "Tensor fasciae latae"
+    },
+    "correct_answer": "A",
+    "explanation": "**Why \"Femoral artery\" is the correct answer:**\nThe femoral triangle contains several important anatomical structures, including the femoral artery. The femoral artery is a major blood vessel that passes through the femoral triangle and is essential for supplying blood to the lower limb.\n\n**Analysis of Other Options:**\n- Option B (Sartorius muscle): The sartorius muscle forms the lateral boundary of the femoral triangle, but it is not one of its contents.\n- Option C (Vastus lateralis muscle): The vastus lateralis muscle is part of the quadriceps group and is located more laterally and does not lie within the femoral triangle.\n- Option D (Tensor fasciae latae): The tensor fasciae latae is located more laterally in the thigh and is not part of the femoral triangle.\n\n**Clinical Context:**\nUnderstanding the anatomy of the femoral triangle is crucial for surgical procedures and vascular access in the lower limb. The femoral artery, being a content of this space, is often accessed for catheterization and other medical interventions.\n\n**Key Takeaway:**\nThe femoral artery is a key structure within the femoral triangle, critical for vascular supply to the lower limb.",
+    "references": [
+      {
+        "page": 6,
+        "quote": "The contents of the femoral triangle (Fig.3.11) are as follows: 1. Femoral artery and its branches...",
+        "section": "Contents of the femoral triangle"
+      }
+    ],
+    "key_concepts": [
+      "femoral triangle contents",
+      "femoral artery",
+      "anatomy of the thigh"
+    ],
+    "reasoning_type": "recall",
+    "question_type": "factual",
+    "citations": [
+      "Page 6, Contents of the femoral triangle: \"The contents of the femoral triangle (Fig.3.11) are as follows: 1. Femoral artery and its branches.....\""
+    ],
+    "chapter_id": 1,
+    "difficulty": "intermediate",
+    "source_chunks": [
+      41,
+      25,
+      0
+    ],
+    "confidence_score": 95,
+    "id": 4,
+    "created_at": "2025-10-03T19:24:39.508251"
+  },
+  {
+    "question": "What are the contents of the femoral triangle?",
+    "options": {
+      "A": "Femoral artery, femoral vein, and femoral nerve",
+      "B": "Great saphenous vein, femoral artery, and quadriceps femoris",
+      "C": "Femoral artery, femoral vein, and their branches",
+      "D": "Iliopsoas, adductor muscles, and femoral artery"
+    },
+    "correct_answer": "C",
+    "explanation": "**Why \"Femoral artery, femoral vein, and their branches\" is the correct answer:**\nThe femoral triangle contains the femoral artery and its branches, and the femoral vein and its tributaries. The artery and vein are the main vascular components traversing the triangle.\n\n**Analysis of Other Options:**\n- Option A (Femoral artery, femoral vein, and femoral nerve): The femoral nerve is not listed as a content of the femoral triangle in the provided material.\n- Option B (Great saphenous vein, femoral artery, and quadriceps femoris): The great saphenous vein is in the superficial fascia, not specifically part of the femoral triangle.\n- Option D (Iliopsoas, adductor muscles, and femoral artery): The iliopsoas and adductor muscles are part of the thigh's muscle groups, not the contents of the femoral triangle.\n\n**Clinical Context:**\nUnderstanding the anatomy of the femoral triangle is crucial for procedures such as catheterization and vascular surgeries. It helps avoid complications by identifying key structures.\n\n**Key Takeaway:**\nThe femoral triangle contains the femoral artery and vein along with their branches and tributaries.",
+    "references": [
+      {
+        "page": 6,
+        "quote": "The contents of the femoral triangle are the femoral artery and its branches, and the femoral vein and its tributaries.",
+        "section": "Contents"
+      }
+    ],
+    "key_concepts": [
+      "femoral triangle",
+      "femoral artery",
+      "femoral vein"
+    ],
+    "reasoning_type": "recall",
+    "question_type": "factual",
+    "citations": [
+      "Page 6, Contents: \"The contents of the femoral triangle are the femoral artery and its branches, and the femoral vein a...\""
+    ],
+    "chapter_id": 1,
+    "difficulty": "intermediate",
+    "source_chunks": [
+      25,
+      0,
+      35
+    ],
+    "confidence_score": 95,
+    "id": 5,
+    "created_at": "2025-10-03T19:24:53.670104"
+  }
+]

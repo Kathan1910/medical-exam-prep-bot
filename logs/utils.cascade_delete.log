@@ -1,0 +1,10 @@
+2025-10-03 17:54:38,488 - utils.cascade_delete - INFO - Starting cascade delete for chapter 1: Chapter 3
+2025-10-03 17:54:38,491 - utils.cascade_delete - INFO - Deleted PDF: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_1.pdf
+2025-10-03 17:54:38,515 - utils.cascade_delete - INFO - Deleted 5 questions
+2025-10-03 17:54:38,545 - utils.cascade_delete - INFO - Deleted 5 attempts
+2025-10-03 17:54:38,569 - utils.cascade_delete - INFO - Deleted 0 images
+2025-10-03 17:54:38,582 - utils.cascade_delete - INFO - Deleted 2 RAG conversations
+2025-10-03 17:54:38,597 - utils.cascade_delete - WARNING - Vector store rebuild required - embeddings marked for deletion
+2025-10-03 17:54:38,618 - utils.cascade_delete - INFO - Removed 69 embeddings from vector store
+2025-10-03 17:54:38,632 - utils.cascade_delete - INFO - Deleted chapter 1 entry
+2025-10-03 17:54:38,635 - utils.cascade_delete - INFO - Cascade delete completed for chapter 1

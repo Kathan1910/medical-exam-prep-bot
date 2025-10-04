@@ -1,0 +1,164 @@
+2025-10-03 14:11:43,567 - __main__ - INFO - Initialized storage
+2025-10-03 14:12:33,321 - __main__ - INFO - Initialized storage
+2025-10-03 14:45:41,258 - __main__ - INFO - Initialized storage
+2025-10-03 14:58:16,415 - __main__ - INFO - Initialized storage
+2025-10-03 15:08:07,452 - __main__ - INFO - Initialized storage in session state
+2025-10-03 15:08:07,452 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:08:07,453 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:13:18,684 - __main__ - INFO - Initialized storage in session state
+2025-10-03 15:13:18,689 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:13:18,689 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:15:44,241 - __main__ - INFO - Initialized storage in session state
+2025-10-03 15:15:44,242 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:15:44,242 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:40:34,430 - __main__ - WARNING - Storage not found in session state, initializing...
+2025-10-03 15:40:34,430 - __main__ - WARNING - Storage not found in session state, initializing...
+2025-10-03 15:40:34,430 - __main__ - WARNING - Storage not found in session state, initializing...
+2025-10-03 15:40:34,430 - __main__ - WARNING - Storage not found in session state, initializing...
+2025-10-03 15:41:11,152 - __main__ - ERROR - Error during search: 'EmbeddingManager' object has no attribute 'embed'
+2025-10-03 15:41:11,152 - __main__ - ERROR - Error during search: 'EmbeddingManager' object has no attribute 'embed'
+2025-10-03 15:41:11,152 - __main__ - ERROR - Error during search: 'EmbeddingManager' object has no attribute 'embed'
+2025-10-03 15:41:11,152 - __main__ - ERROR - Error during search: 'EmbeddingManager' object has no attribute 'embed'
+2025-10-03 15:41:11,152 - __main__ - ERROR - Error during search: 'EmbeddingManager' object has no attribute 'embed'
+2025-10-03 15:41:11,152 - __main__ - ERROR - Error during search: 'EmbeddingManager' object has no attribute 'embed'
+2025-10-03 15:41:11,152 - __main__ - ERROR - Error during search: 'EmbeddingManager' object has no attribute 'embed'
+2025-10-03 15:42:00,603 - __main__ - ERROR - Error during search: 'LocalVectorStore' object has no attribute 'similarity_search'
+2025-10-03 15:42:00,603 - __main__ - ERROR - Error during search: 'LocalVectorStore' object has no attribute 'similarity_search'
+2025-10-03 15:42:00,603 - __main__ - ERROR - Error during search: 'LocalVectorStore' object has no attribute 'similarity_search'
+2025-10-03 15:42:00,603 - __main__ - ERROR - Error during search: 'LocalVectorStore' object has no attribute 'similarity_search'
+2025-10-03 15:42:00,603 - __main__ - ERROR - Error during search: 'LocalVectorStore' object has no attribute 'similarity_search'
+2025-10-03 15:42:00,603 - __main__ - ERROR - Error during search: 'LocalVectorStore' object has no attribute 'similarity_search'
+2025-10-03 15:42:00,603 - __main__ - ERROR - Error during search: 'LocalVectorStore' object has no attribute 'similarity_search'
+2025-10-03 15:42:00,603 - __main__ - ERROR - Error during search: 'LocalVectorStore' object has no attribute 'similarity_search'
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,350 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,373 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,387 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 15:49:28,405 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 16:01:39,522 - __main__ - INFO - Initializing session state
+2025-10-03 16:01:39,523 - __main__ - INFO - Initialized storage in session state
+2025-10-03 16:01:39,523 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 16:01:39,524 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 16:01:39,524 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 16:01:39,525 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 16:01:39,525 - __main__ - INFO - Initialized initialized in session state
+2025-10-03 16:53:55,290 - __main__ - INFO - Initializing session state
+2025-10-03 16:53:55,291 - __main__ - INFO - Initialized storage in session state
+2025-10-03 16:53:55,292 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 16:53:55,292 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 16:53:55,293 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 16:53:55,293 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 16:53:55,294 - __main__ - INFO - Initialized initialized in session state
+2025-10-03 17:02:45,408 - __main__ - INFO - Initializing session state
+2025-10-03 17:02:45,409 - __main__ - INFO - Initialized storage in session state
+2025-10-03 17:02:45,409 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 17:02:45,410 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 17:02:45,410 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 17:02:45,411 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 17:02:45,411 - __main__ - INFO - Initialized initialized in session state
+2025-10-03 17:05:39,314 - __main__ - INFO - Initializing session state
+2025-10-03 17:05:39,315 - __main__ - INFO - Initialized storage in session state
+2025-10-03 17:05:39,316 - __main__ - INFO - Initialized current_question_idx in session state
+2025-10-03 17:05:39,316 - __main__ - INFO - Initialized show_answer in session state
+2025-10-03 17:05:39,317 - __main__ - INFO - Initialized answered_questions in session state
+2025-10-03 17:05:39,317 - __main__ - INFO - Initialized current_score in session state
+2025-10-03 17:05:39,317 - __main__ - INFO - Initialized initialized in session state

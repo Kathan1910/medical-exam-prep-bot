@@ -1,0 +1,22 @@
+2025-10-03 14:47:13,522 - core.langchain_pdf_processor - INFO - Processing PDF: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_2.pdf
+2025-10-03 14:47:13,997 - core.langchain_pdf_processor - INFO - Extracted 69 chunks from PDF
+2025-10-03 14:58:40,903 - core.langchain_pdf_processor - INFO - Processing PDF: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_1.pdf
+2025-10-03 14:58:41,330 - core.langchain_pdf_processor - INFO - Extracted 69 chunks from PDF
+2025-10-03 16:02:07,592 - core.langchain_pdf_processor - INFO - Processing PDF: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_1.pdf
+2025-10-03 16:02:07,992 - core.langchain_pdf_processor - INFO - Extracted 69 chunks from PDF
+2025-10-03 17:06:03,592 - core.langchain_pdf_processor - INFO - Processing PDF: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_1.pdf
+2025-10-03 17:06:03,979 - core.langchain_pdf_processor - INFO - Extracted 69 chunks from PDF
+2025-10-03 18:33:33,001 - core.langchain_pdf_processor - INFO - Processing PDF: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_1.pdf
+2025-10-03 18:33:33,001 - core.langchain_pdf_processor - INFO - Processing PDF: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_1.pdf
+2025-10-03 18:33:33,001 - core.langchain_pdf_processor - INFO - Processing PDF: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_1.pdf
+2025-10-03 18:33:33,001 - core.langchain_pdf_processor - INFO - Processing PDF: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_1.pdf
+2025-10-03 18:33:33,001 - core.langchain_pdf_processor - INFO - Processing PDF: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_1.pdf
+2025-10-03 18:33:33,001 - core.langchain_pdf_processor - INFO - Processing PDF: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_1.pdf
+2025-10-03 18:33:33,207 - core.langchain_pdf_processor - INFO - Extracted 69 chunks from PDF
+2025-10-03 18:33:33,207 - core.langchain_pdf_processor - INFO - Extracted 69 chunks from PDF
+2025-10-03 18:33:33,207 - core.langchain_pdf_processor - INFO - Extracted 69 chunks from PDF
+2025-10-03 18:33:33,207 - core.langchain_pdf_processor - INFO - Extracted 69 chunks from PDF
+2025-10-03 18:33:33,207 - core.langchain_pdf_processor - INFO - Extracted 69 chunks from PDF
+2025-10-03 18:33:33,207 - core.langchain_pdf_processor - INFO - Extracted 69 chunks from PDF
+2025-10-03 19:19:55,906 - core.langchain_pdf_processor - INFO - Processing PDF: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/chapters/chapter_1.pdf
+2025-10-03 19:19:56,327 - core.langchain_pdf_processor - INFO - Extracted 69 chunks from PDF

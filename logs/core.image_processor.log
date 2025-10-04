@@ -1,0 +1,22 @@
+2025-10-03 14:13:39,512 - core.image_processor - INFO - Analyzing image: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/images/ch1_p1_img0.png
+2025-10-03 14:13:56,640 - core.image_processor - INFO - Image analysis completed successfully
+2025-10-03 14:13:56,643 - core.image_processor - INFO - Analyzing image: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/images/ch1_p1_img1.png
+2025-10-03 14:14:17,011 - core.image_processor - INFO - Image analysis completed successfully
+2025-10-03 14:14:17,013 - core.image_processor - INFO - Analyzing image: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/images/ch1_p1_img2.png
+2025-10-03 14:14:32,702 - core.image_processor - INFO - Image analysis completed successfully
+2025-10-03 14:14:32,705 - core.image_processor - INFO - Analyzing image: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/images/ch1_p1_img3.png
+2025-10-03 14:14:52,462 - core.image_processor - INFO - Image analysis completed successfully
+2025-10-03 14:14:52,466 - core.image_processor - INFO - Analyzing image: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/images/ch1_p1_img4.png
+2025-10-03 14:15:05,846 - core.image_processor - INFO - Image analysis completed successfully
+2025-10-03 14:17:38,881 - core.image_processor - INFO - Analyzing image: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/images/ch1_p7_img5.png
+2025-10-03 14:18:02,305 - core.image_processor - INFO - Image analysis completed successfully
+2025-10-03 14:18:10,073 - core.image_processor - INFO - Analyzing image: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/images/ch1_p18_img3.png
+2025-10-03 14:18:33,647 - core.image_processor - INFO - Image analysis completed successfully
+2025-10-03 14:18:42,053 - core.image_processor - INFO - Analyzing image: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/images/ch1_p13_img1.png
+2025-10-03 14:19:14,396 - core.image_processor - INFO - Image analysis completed successfully
+2025-10-03 14:19:22,399 - core.image_processor - INFO - Analyzing image: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/images/ch1_p3_img2.png
+2025-10-03 14:19:42,994 - core.image_processor - INFO - Image analysis completed successfully
+2025-10-03 14:19:48,611 - core.image_processor - INFO - Analyzing image: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/images/ch1_p18_img4.png
+2025-10-03 14:20:11,519 - core.image_processor - INFO - Image analysis completed successfully
+2025-10-03 14:20:19,800 - core.image_processor - INFO - Analyzing image: /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/images/ch1_p18_img4.png
+2025-10-03 14:20:30,996 - core.image_processor - INFO - Image analysis completed successfully

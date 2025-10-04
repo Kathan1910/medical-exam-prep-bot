@@ -1,0 +1,154 @@
+2025-10-03 14:17:37,915 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 14:18:08,044 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 14:18:08,083 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 14:18:40,507 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 14:18:40,547 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 14:19:20,757 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 14:19:20,788 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 14:19:47,538 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 14:19:47,582 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 14:20:19,794 - core.agents.question_generator - WARNING - Medical accuracy check failed, regenerating
+2025-10-03 14:20:36,014 - core.agents.question_generator - WARNING - Max regeneration attempts (2) reached
+2025-10-03 14:59:20,046 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 14:59:26,293 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 14:59:26,333 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 14:59:33,119 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 14:59:33,156 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 14:59:39,243 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 14:59:39,278 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 14:59:46,452 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 14:59:46,487 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 14:59:53,100 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 16:06:13,923 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 16:06:22,488 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 16:06:22,529 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 16:06:29,273 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 16:06:29,300 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 16:06:38,118 - core.agents.question_generator - WARNING - Medical accuracy check failed, regenerating
+2025-10-03 16:06:45,427 - core.agents.question_generator - WARNING - Max regeneration attempts (2) reached
+2025-10-03 16:06:45,461 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 16:06:55,870 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 16:06:55,909 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 16:07:02,318 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 17:20:13,548 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 17:20:13,548 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 17:20:24,554 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 17:20:24,554 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 17:20:24,590 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 17:20:24,590 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 17:20:38,913 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 17:20:38,913 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 17:20:38,967 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 17:20:38,967 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 17:20:48,728 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 17:20:48,728 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 17:20:48,778 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 17:20:48,778 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 17:20:58,767 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 17:20:58,767 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 17:20:58,783 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 17:20:58,783 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 17:21:09,206 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 17:21:09,206 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:49:44,978 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:44,978 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:44,978 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:44,978 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:44,978 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:44,978 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:44,978 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:54,671 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:49:54,671 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:49:54,671 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:49:54,671 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:49:54,671 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:49:54,671 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:49:54,671 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:49:54,702 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:54,702 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:54,702 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:54,702 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:54,702 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:54,702 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:49:54,702 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:50:04,333 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:04,333 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:04,333 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:04,333 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:04,333 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:04,333 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:04,333 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:04,376 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:50:04,376 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:50:04,376 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:50:04,376 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:50:04,376 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:50:04,376 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:50:04,376 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:50:23,899 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:23,899 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:23,899 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:23,899 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:23,899 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:23,899 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:50:23,899 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:16,768 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:16,768 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:16,768 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:16,768 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:16,768 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:16,768 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:16,768 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:45,958 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:45,958 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:45,958 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:45,958 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:45,958 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:45,958 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:45,958 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:45,992 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:45,992 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:45,992 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:45,992 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:45,992 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:45,992 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:45,992 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:59,301 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:59,301 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:59,301 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:59,301 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:59,301 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:59,301 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:59,301 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:53:59,331 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:59,331 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:59,331 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:59,331 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:59,331 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:59,331 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:53:59,331 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:54:12,781 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:54:12,781 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:54:12,781 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:54:12,781 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:54:12,781 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:54:12,781 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:54:12,781 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:58:41,230 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:58:51,435 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 18:58:51,444 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 18:59:02,363 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 19:20:35,415 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 19:20:51,682 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 19:23:26,636 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 19:23:35,113 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 19:23:35,145 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 19:23:59,408 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 19:23:59,441 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 19:24:15,667 - core.agents.question_generator - WARNING - Medical accuracy check failed, regenerating
+2025-10-03 19:24:25,699 - core.agents.question_generator - WARNING - Max regeneration attempts (2) reached
+2025-10-03 19:24:25,703 - core.agents.question_generator - ERROR - No question generated
+2025-10-03 19:24:25,711 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 19:24:39,493 - core.agents.question_generator - INFO - Validation passed
+2025-10-03 19:24:39,541 - core.agents.question_generator - INFO - Starting question generation for chapter 1
+2025-10-03 19:24:53,655 - core.agents.question_generator - INFO - Validation passed

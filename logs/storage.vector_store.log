@@ -1,0 +1,570 @@
+2025-10-03 14:13:39,261 - storage.vector_store - WARNING - Index files not found at /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 14:13:39,288 - storage.vector_store - INFO - Added 19 embeddings to index
+2025-10-03 14:13:39,301 - storage.vector_store - INFO - Saved index with 19 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 14:17:37,902 - storage.vector_store - INFO - Loaded index with 19 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 14:17:38,867 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 14:18:10,064 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 14:18:42,043 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 14:19:22,385 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 14:19:48,600 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 14:47:16,632 - storage.vector_store - INFO - Loaded index with 19 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 14:47:16,701 - storage.vector_store - INFO - Added 69 embeddings to index
+2025-10-03 14:47:16,715 - storage.vector_store - INFO - Saved index with 88 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 14:58:42,946 - storage.vector_store - WARNING - Index files not found at /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 14:58:42,997 - storage.vector_store - INFO - Added 69 embeddings to index
+2025-10-03 14:58:43,005 - storage.vector_store - INFO - Saved index with 69 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 14:59:20,031 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 14:59:21,027 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 14:59:27,540 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 14:59:34,125 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 14:59:40,683 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 14:59:47,846 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 15:40:36,368 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:41:08,918 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:41:10,824 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:41:58,947 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:41:58,947 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:24,351 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:24,351 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:24,351 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:26,948 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:43:26,948 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:43:26,948 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:43:31,100 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:31,100 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:31,100 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:31,910 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:31,910 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:31,910 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:32,676 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:32,676 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:32,676 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:43:33,805 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:43:33,805 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:43:33,805 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:44:04,627 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:44:04,627 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:44:04,627 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:44:04,941 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:44:04,941 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:44:04,941 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:44:06,578 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:44:06,578 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:44:06,578 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:44:45,748 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:44:45,748 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:44:45,748 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:44:46,053 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:44:46,053 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:44:46,053 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:44:48,107 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:44:48,107 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:44:48,107 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:45:41,113 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:45:41,113 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:45:41,113 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:45:41,433 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:45:41,433 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:45:41,433 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:45:43,013 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:45:43,013 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:45:43,013 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:46:19,993 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:46:19,993 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:46:19,993 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:46:20,306 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:46:20,306 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:46:20,306 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:46:21,228 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:46:21,228 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:46:21,228 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 15:49:25,694 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:49:25,694 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:49:25,694 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 15:49:25,694 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:02:11,062 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:02:11,125 - storage.vector_store - INFO - Added 69 embeddings to index
+2025-10-03 16:02:11,137 - storage.vector_store - INFO - Saved index with 138 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:02:55,732 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:03:11,348 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:03:11,671 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:03:12,273 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:03:13,973 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:03:15,307 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 16:03:20,082 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:03:21,279 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:03:22,880 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 16:03:58,219 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:04:02,178 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:04:02,469 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:04:04,376 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 16:04:06,236 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:04:07,148 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:04:09,373 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 16:04:27,791 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:04:28,109 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:04:29,078 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 16:05:03,667 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:05:04,183 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:05:06,812 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:05:07,821 - storage.vector_store - INFO - Found 6 results for query
+2025-10-03 16:05:08,315 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:05:09,482 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:05:10,347 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:05:11,302 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:05:12,961 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 16:05:39,082 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:05:39,402 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:05:40,504 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 16:06:13,906 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 16:06:15,945 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 16:06:23,845 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 16:06:30,641 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 16:06:46,690 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 16:06:57,158 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:06:05,979 - storage.vector_store - WARNING - Index files not found at /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:06:06,027 - storage.vector_store - INFO - Added 69 embeddings to index
+2025-10-03 17:06:06,033 - storage.vector_store - INFO - Saved index with 69 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:06:58,890 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:07:44,317 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:07:50,479 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:07:51,808 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:08:43,128 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:08:43,519 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:10:21,831 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:11:38,525 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:12:37,510 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:12:37,510 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:13:09,037 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:13:09,037 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:13:10,715 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:13:10,715 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:13:12,666 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:13:12,666 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:15:58,791 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:15:58,791 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:15:58,791 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:04,100 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:04,100 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:04,100 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:04,550 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:04,550 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:04,550 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:14,955 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:14,955 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:14,955 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:14,955 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:18,947 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:18,947 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:18,947 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:18,947 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:20,419 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:16:20,419 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:16:20,419 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:16:20,419 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:16:22,001 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:22,001 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:22,001 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:22,001 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:35,530 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:35,530 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:35,530 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:35,530 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:37,437 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:16:37,437 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:16:37,437 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:16:37,437 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:16:39,146 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:39,146 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:39,146 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:16:39,146 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:02,104 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:02,104 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:02,104 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:02,104 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:03,763 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:17:03,763 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:17:03,763 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:17:03,763 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:17:05,510 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:05,510 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:05,510 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:05,510 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:49,363 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:49,363 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:49,363 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:49,363 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:50,463 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:17:50,463 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:17:50,463 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:17:50,463 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:17:58,031 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:58,031 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:58,031 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:17:58,031 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:18:45,423 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:18:45,423 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:18:45,423 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:18:45,423 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:20:04,460 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:20:04,460 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:20:04,460 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:20:04,460 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:20:13,529 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:20:13,529 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:20:13,529 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:20:13,529 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:20:15,753 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:15,753 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:15,753 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:15,753 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:25,893 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:25,893 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:25,893 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:25,893 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:40,233 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:40,233 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:40,233 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:40,233 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:49,857 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:49,857 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:49,857 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:20:49,857 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:21:01,015 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:21:01,015 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:21:01,015 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:21:01,015 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 17:26:47,187 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:26:47,187 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:26:47,187 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:26:47,187 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:26:49,596 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:26:49,596 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:26:49,596 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:26:49,596 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:26:50,433 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:26:50,433 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:26:50,433 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:26:50,433 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:26:52,714 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:26:52,714 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:26:52,714 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:26:52,714 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:05,751 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:05,751 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:05,751 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:05,751 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:05,751 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:05,751 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:06,148 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:06,148 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:06,148 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:06,148 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:06,148 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:06,148 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:12,133 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:12,133 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:12,133 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:12,133 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:12,133 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:12,133 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:18,425 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:18,425 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:18,425 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:18,425 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:18,425 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:18,425 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:20,655 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:20,655 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:20,655 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:20,655 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:20,655 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:20,655 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:21,112 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:21,112 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:21,112 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:21,112 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:21,112 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:21,112 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:51,336 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:35:51,730 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:41:06,560 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:41:06,560 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:41:06,953 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:41:06,953 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:41:10,917 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:41:10,917 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:41:13,071 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:41:13,071 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:41:15,150 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:41:15,150 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:41:30,974 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:41:30,974 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:41:32,606 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:41:32,606 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 17:41:35,424 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:41:35,424 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:42:17,842 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:42:17,842 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:42:18,221 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:42:18,221 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:42:34,815 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:42:35,126 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:43:47,193 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:43:54,359 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:43:54,748 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:43:57,897 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:44:00,694 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:44:01,072 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:54:38,594 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:54:38,594 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:54:38,594 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:54:38,615 - storage.vector_store - INFO - Saved index with 69 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:54:38,615 - storage.vector_store - INFO - Saved index with 69 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 17:54:38,615 - storage.vector_store - INFO - Saved index with 69 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:33:36,382 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:33:36,382 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:33:36,382 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:33:36,382 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:33:36,382 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:33:36,382 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:33:36,402 - storage.vector_store - INFO - Added 69 embeddings to index
+2025-10-03 18:33:36,402 - storage.vector_store - INFO - Added 69 embeddings to index
+2025-10-03 18:33:36,402 - storage.vector_store - INFO - Added 69 embeddings to index
+2025-10-03 18:33:36,402 - storage.vector_store - INFO - Added 69 embeddings to index
+2025-10-03 18:33:36,402 - storage.vector_store - INFO - Added 69 embeddings to index
+2025-10-03 18:33:36,402 - storage.vector_store - INFO - Added 69 embeddings to index
+2025-10-03 18:33:36,407 - storage.vector_store - INFO - Saved index with 138 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:33:36,407 - storage.vector_store - INFO - Saved index with 138 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:33:36,407 - storage.vector_store - INFO - Saved index with 138 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:33:36,407 - storage.vector_store - INFO - Saved index with 138 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:33:36,407 - storage.vector_store - INFO - Saved index with 138 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:33:36,407 - storage.vector_store - INFO - Saved index with 138 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:24,862 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:24,862 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:24,862 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:24,862 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:24,862 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:24,862 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:24,862 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:24,862 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:25,103 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:25,103 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:25,103 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:25,103 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:25,103 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:25,103 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:25,103 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:38:25,103 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:03,659 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:03,659 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:03,659 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:03,659 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:03,659 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:03,659 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:03,659 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:03,659 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:03,659 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:08,839 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:08,839 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:08,839 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:08,839 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:08,839 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:08,839 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:08,839 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:08,839 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:08,839 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:12,382 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:12,382 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:12,382 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:12,382 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:12,382 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:12,382 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:12,382 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:12,382 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:12,382 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:20,781 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:20,781 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:20,781 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:20,781 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:20,781 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:20,781 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:20,781 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:20,781 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:20,781 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:20,781 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:38,518 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:38,518 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:38,518 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:38,518 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:38,518 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:38,518 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:38,518 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:38,518 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:38,518 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:38,518 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:38,518 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:49,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:49,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:49,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:49,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:49,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:49,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:49,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:49,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:49,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:49,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:49,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:39:49,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:40:10,612 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:42:25,355 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:42:25,593 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:11,560 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:11,560 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:11,560 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:11,560 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:11,560 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:11,795 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:11,795 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:11,795 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:11,795 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:11,795 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:18,546 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:18,546 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:18,546 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:18,546 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:18,546 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:19,829 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 18:47:19,829 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 18:47:19,829 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 18:47:19,829 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 18:47:19,829 - storage.vector_store - INFO - Found 5 results for query
+2025-10-03 18:47:21,524 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:21,524 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:21,524 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:21,524 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:47:21,524 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:48:59,824 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:48:59,824 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:48:59,824 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:48:59,824 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:48:59,824 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:49:44,966 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:49:44,966 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:49:44,966 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:49:44,966 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:49:44,966 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:49:44,966 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:49:44,966 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:49:46,335 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:46,335 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:46,335 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:46,335 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:46,335 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:46,335 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:46,335 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:56,042 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:56,042 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:56,042 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:56,042 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:56,042 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:56,042 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:49:56,042 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:50:05,493 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:50:05,493 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:50:05,493 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:50:05,493 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:50:05,493 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:50:05,493 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:50:05,493 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:50:11,865 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:11,865 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:11,865 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:11,865 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:11,865 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:11,865 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:11,865 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:12,078 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:12,078 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:12,078 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:12,078 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:12,078 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:12,078 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:12,078 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,354 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,354 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,354 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,354 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,354 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,354 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,354 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,594 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,594 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,594 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,594 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,594 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,594 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:50:21,594 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:53:16,758 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:53:16,758 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:53:16,758 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:53:16,758 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:53:16,758 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:53:16,758 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:53:16,758 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:53:18,323 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:18,323 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:18,323 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:18,323 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:18,323 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:18,323 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:18,323 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:47,698 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:47,698 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:47,698 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:47,698 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:47,698 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:47,698 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:53:47,698 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:54:01,288 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:54:01,288 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:54:01,288 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:54:01,288 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:54:01,288 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:54:01,288 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:54:01,288 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:54:15,941 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:54:15,941 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:54:15,941 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:54:15,941 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:54:15,941 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:54:15,941 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:54:15,941 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:58:41,221 - storage.vector_store - INFO - Loaded index with 138 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 18:58:42,856 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 18:58:53,254 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 19:19:59,867 - storage.vector_store - WARNING - Index files not found at /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 19:19:59,925 - storage.vector_store - INFO - Added 69 embeddings to index
+2025-10-03 19:19:59,930 - storage.vector_store - INFO - Saved index with 69 vectors to /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 19:20:35,401 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 19:20:36,345 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 19:20:48,842 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 19:20:49,245 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 19:23:26,608 - storage.vector_store - INFO - Loaded index with 69 vectors from /home/kathan/Kathan/Nidhi/medical_exam_prep/storage/data/embeddings
+2025-10-03 19:23:27,436 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 19:23:36,550 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 19:24:00,720 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 19:24:27,133 - storage.vector_store - INFO - Found 10 results for query
+2025-10-03 19:24:40,663 - storage.vector_store - INFO - Found 10 results for query

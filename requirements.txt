@@ -1,0 +1,16 @@
+# requirements.txt
+# pip install --extra-index-url https://pypi.org/simple/ -r requirements.txt
+streamlit
+openai
+langchain
+langchain-community
+langchain-openai
+pymupdf
+faiss-cpu
+numpy
+python-dotenv
+pydantic
+pydantic-settings
+plotly
+tiktoken
+langgraph
