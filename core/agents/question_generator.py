@@ -4,6 +4,7 @@ from typing import TypedDict, List, Optional, Dict, Any
 from .nodes import QuestionGeneratorNodes
 from config import settings
 from utils.logger import setup_logger
+import asyncio
 
 logger = setup_logger(__name__)
 
@@ -19,6 +20,7 @@ class QuestionState(TypedDict):
     validation_result: Optional[Dict[str, Any]]
     final_question: Optional[Dict[str, Any]]
     generation_attempt: int
+    uniqueness_check: Optional[Dict[str, Any]]
     error: Optional[str]
 
 class QuestionGeneratorAgent:
@@ -123,6 +125,7 @@ class QuestionGeneratorAgent:
             'validation_result': None,
             'final_question': None,
             'generation_attempt': 0,
+            'uniqueness_check': None,
             'error': None
         }
         
@@ -141,5 +144,59 @@ class QuestionGeneratorAgent:
             return final_state['final_question']
             
         except Exception as e:
-            logger.error(f"Error in question generation workflow: {e}")
+            logger.error(f"Error in question generation workflow: {e}", exc_info=True)
             return None
+    
+    async def generate_batch_questions(
+        self,
+        chapter_id: int,
+        count: int,
+        difficulty: str = "intermediate",
+        include_images: bool = False,
+        max_concurrent: int = 3
+    ) -> List[Dict[str, Any]]:
+        """
+        Generate multiple questions concurrently in batches
+        
+        Args:
+            chapter_id: ID of the chapter
+            count: Number of questions to generate
+            difficulty: Question difficulty level
+            include_images: Whether to include image-based questions
+            max_concurrent: Number of questions to generate simultaneously
+            
+        Returns:
+            List of generated questions
+        """
+        questions = []
+        
+        logger.info(f"Starting batch generation: {count} questions, {max_concurrent} concurrent")
+        
+        # Process in batches of max_concurrent
+        for i in range(0, count, max_concurrent):
+            batch_size = min(max_concurrent, count - i)
+            
+            logger.info(f"Generating batch {i//max_concurrent + 1}: {batch_size} questions")
+            
+            # Create tasks for this batch
+            tasks = [
+                self.generate_single_question(chapter_id, difficulty, include_images)
+                for _ in range(batch_size)
+            ]
+            
+            # Run concurrently
+            batch_results = await asyncio.gather(*tasks, return_exceptions=True)
+            
+            # Filter out failures and exceptions
+            valid_questions = [
+                q for q in batch_results 
+                if isinstance(q, dict) and q is not None
+            ]
+            
+            questions.extend(valid_questions)
+            
+            logger.info(f"Batch complete: {len(valid_questions)}/{batch_size} successful")
+        
+        logger.info(f"Batch generation complete: {len(questions)}/{count} questions generated")
+        
+        return questions

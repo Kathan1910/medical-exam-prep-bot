@@ -1,4 +1,4 @@
-# pages/2_❓_Generate_Questions.py
+# pages/3_❓_Generate_Questions.py
 import streamlit as st
 import asyncio
 from core.agents.question_generator import QuestionGeneratorAgent
@@ -8,13 +8,9 @@ from utils.session_init import init_session_state
 
 logger = setup_logger(__name__)
 
-
 st.set_page_config(page_title="Generate Questions", page_icon="❓", layout="wide")
-
-# Initialize session state IMMEDIATELY after page config
 init_session_state()
 
-# Now you can safely use st.session_state.storage
 storage = st.session_state.storage
 chapters = storage.load('chapters')
 
@@ -58,6 +54,16 @@ include_images = st.checkbox(
     help="Generate questions that reference medical images"
 )
 
+# Add batch size option
+with st.expander("⚡ Advanced Settings"):
+    batch_size = st.slider(
+        "Concurrent Generation (questions at a time)",
+        min_value=1,
+        max_value=5,
+        value=3,
+        help="Generate multiple questions simultaneously. Higher = faster but more API usage."
+    )
+
 # Generate button
 if st.button("🎯 Generate Questions", type="primary", use_container_width=True):
     
@@ -73,39 +79,57 @@ if st.button("🎯 Generate Questions", type="primary", use_container_width=True
         generated_count = 0
         failed_count = 0
         
-        for i in range(num_questions):
-            status_container.info(f"🔍 Generating question {i+1}/{num_questions}...")
+        # Calculate batches
+        total_batches = (num_questions + batch_size - 1) // batch_size
+        
+        # Generate in batches
+        for batch_num in range(total_batches):
+            remaining = num_questions - generated_count
+            current_batch_size = min(batch_size, remaining)
             
-            async def generate():
-                return await agent.generate_single_question(
-                    chapter_id=chapter_id,
-                    difficulty=difficulty.lower(),
-                    include_images=include_images
-                )
+            status_container.info(
+                f"🔄 Generating batch {batch_num + 1}/{total_batches} "
+                f"({current_batch_size} questions simultaneously)..."
+            )
             
+            # Use batch generation method
             try:
-                question = asyncio.run(generate())
+                batch_results = asyncio.run(
+                    agent.generate_batch_questions(
+                        chapter_id=chapter_id,
+                        count=current_batch_size,
+                        difficulty=difficulty.lower(),
+                        include_images=include_images,
+                        max_concurrent=current_batch_size
+                    )
+                )
                 
-                if question:
-                    # Save question
-                    saved_question = storage.append('questions', question)
-                    generated_count += 1
+                # Process results
+                for result in batch_results:
+                    question_num = generated_count + 1
                     
-                    # Display preview
-                    with questions_container:
-                        with st.expander(f"✅ Question {i+1} - Preview"):
-                            st.markdown(f"**Q:** {question['question']}")
-                            st.write(f"**Difficulty:** {question['difficulty']}")
-                            st.write(f"**Confidence:** {question.get('confidence_score', 'N/A')}%")
-                else:
-                    failed_count += 1
-                    st.warning(f"⚠️ Failed to generate question {i+1}")
-                    
+                    if result:
+                        # Save question
+                        storage.append('questions', result)
+                        generated_count += 1
+                        
+                        # Display preview
+                        with questions_container:
+                            with st.expander(f"✅ Question {question_num} - Preview"):
+                                st.markdown(f"**Q:** {result['question'][:150]}...")
+                                st.write(f"**Difficulty:** {result['difficulty']}")
+                                st.write(f"**Confidence:** {result.get('confidence_score', 'N/A')}%")
+                    else:
+                        failed_count += 1
+                        st.warning(f"⚠️ Failed to generate question {question_num}")
+                
             except Exception as e:
-                logger.error(f"Error generating question {i+1}: {e}")
-                failed_count += 1
+                logger.error(f"Error in batch generation: {e}")
+                st.error(f"Batch {batch_num + 1} failed: {str(e)}")
+                failed_count += current_batch_size
             
-            progress_bar.progress((i + 1) / num_questions)
+            # Update progress
+            progress_bar.progress(generated_count / num_questions)
         
         status_container.empty()
         
@@ -114,13 +138,13 @@ if st.button("🎯 Generate Questions", type="primary", use_container_width=True
         ### ✅ Generation Complete!
         - **Generated:** {generated_count} questions
         - **Failed:** {failed_count} questions
+        - **Time saved:** ~{(num_questions * 10 - generated_count * 3)}+ seconds with batch processing!
         """)
 
-# Practice Section
+# Practice Section (rest of your existing code stays the same)
 st.markdown("---")
 st.subheader("📝 Practice Mode")
 
-# Get questions for selected chapter
 chapter_id = next(c['id'] for c in chapters if c['name'] == selected_chapter)
 chapter_questions = storage.filter('questions', chapter_id=chapter_id)
 
@@ -165,7 +189,7 @@ selected_answer = st.radio(
     key=f"answer_{current_question['id']}"
 )
 
-# Navigation buttons - NEW: Added Previous button
+# Navigation buttons
 col1, col2, col3 = st.columns([1, 1, 1])
 
 with col1:
